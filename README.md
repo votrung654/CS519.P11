@@ -13,5 +13,5 @@
 
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
-| 1 | Võ Đình Trung | 22521571 | 22521571@gm.uit.edu.vn | [cnmeow](https://github.com/votrung654) |
-| 2 | Trương Phúc Trường | 22521587 | 22521587@gm.uit.edu.vn | [Yangchann](https://github.com/Truong99zvc) |
+| 1 | Võ Đình Trung | 22521571 | 22521571@gm.uit.edu.vn | [votrung654](https://github.com/votrung654) |
+| 2 | Trương Phúc Trường | 22521587 | 22521587@gm.uit.edu.vn | [Truong99zvc](https://github.com/Truong99zvc) |
